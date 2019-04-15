@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "One Dark Pro Bold",
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": true,
+    "editor.fontSize": 13,
+    "editor.minimap.maxColumn": 100,
+    "search.showLineNumbers": true,
+    "editor.folding": false,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "window.menuBarVisibility": "visible",
+    "workbench.statusBar.visible": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.autoReveal": false
+}
