@@ -1,0 +1,5 @@
+i3-wm.program.notifications: /usr/bin/dunst
+i3-wm.program.launcher.app: rofi -show drun
+i3-wm.program.1: ~/.config/polybar/launch.sh
+i3-wm.gaps.inner.size: 12
+i3-wm.gaps.outer.size: 0

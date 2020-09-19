@@ -1,0 +1,4 @@
+rofi.modi: window,drun,run,ssh,combi
+rofi.theme: slate
+rofi.show-icons: True
+rofi.icon-theme: "Zafiro-Icons-Classic"
